@@ -102,42 +102,42 @@ Returns the number of non-null entries in each column.
 3- Univariate Analysis:
 
 Bar chart:
- o Top 10 Globally Ranked Universities: This chart displays the top 10 universities worldwide based on their global ranking. 
- o Top 10 Universities for Employment Outcomes: This chart showcases the top 10 universities ranked by their employment outcomes, illustrating which institutions are most effective at preparing students for successful careers.
- o Top 10 USA Universities by National Rank: This chart presents the top 10 universities in the United States based on national rankings.
+ - Top 10 Globally Ranked Universities: This chart displays the top 10 universities worldwide based on their global ranking. 
+ - Top 10 Universities for Employment Outcomes: This chart showcases the top 10 universities ranked by their employment outcomes, illustrating which institutions are most effective at preparing students for successful careers.
+ - Top 10 USA Universities by National Rank: This chart presents the top 10 universities in the United States based on national rankings.
 
 Histogram:
- o The histogram displays the distribution of scores, showing how scores are spread across different ranges.
+ - The histogram displays the distribution of scores, showing how scores are spread across different ranges.
 Pie chart:
- o The pie chart shows Countries with the Highest Concentration of Top 10 Universities, illustrating which countries have the most top-ranked universities.
- o Top 5 Countries with the Highest Average Scores: This pie chart displays the proportion of average scores among the top 5 countries, showing how these countries compare in terms of average scores.
+ - The pie chart shows Countries with the Highest Concentration of Top 10 Universities, illustrating which countries have the most top-ranked universities.
+ - Top 5 Countries with the Highest Average Scores: This pie chart displays the proportion of average scores among the top 5 countries, showing how these countries compare in terms of average scores.
  
 Box plot:
- o Box Plot of Score: This plot shows the distribution of scores, highlighting the median, quartiles, and potential outliers.
- o Box Plot of National Rank: This plot displays the distribution of national ranks, highlighting the median, quartiles, and potential outliers
+ - Box Plot of Score: This plot shows the distribution of scores, highlighting the median, quartiles, and potential outliers.
+ - Box Plot of National Rank: This plot displays the distribution of national ranks, highlighting the median, quartiles, and potential outliers
 
 4-Bivariate/Multivariate Analysis:
 
 Heat map:
- o Rank Factors: This heatmap visualizes the correlation between various ranking factors, highlighting how they relate to each other and their impact on university rankings.
+ - Rank Factors: This heatmap visualizes the correlation between various ranking factors, highlighting how they relate to each other and their impact on university rankings.
 
 Scatter Chart:
- o The World Rank for Saudi Universities: -  The scatter plot shows that there are a wide gap of global standings among Saudi universites, 3 universites are ranked the highest globally, all within the top 500. The other universities are ranked between 500 and 2000. This highlights that while some Saudi universities are highly competitive internationally, many others have room for improvement.
- o Top 10 Countries: This plot visualizes the top 10 countries based on their university rankings, highlighting their relative standings.
+ - The World Rank for Saudi Universities: -  The scatter plot shows that there are a wide gap of global standings among Saudi universites, 3 universites are ranked the highest globally, all within the top 500. The other universities are ranked between 500 and 2000. This highlights that while some Saudi universities are highly competitive internationally, many others have room for improvement.
+ - Top 10 Countries: This plot visualizes the top 10 countries based on their university rankings, highlighting their relative standings.
 National Rank vs. Score of Saudi Universities: This scatter plot compares national rank with scores for Saudi universities, revealing any correlations between these metrics.
- o The Academic Ranking of World Universities (ARWU): This plot highlights the dominance of American and British universities in global academic rankings.
- o Nacional Rank vs Score of Saudi Universities: The scatter plot shows that most Saudi universities have scores below 70.
+ - The Academic Ranking of World Universities (ARWU): This plot highlights the dominance of American and British universities in global academic rankings.
+ - Nacional Rank vs Score of Saudi Universities: The scatter plot shows that most Saudi universities have scores below 70.
  
 
  ### Describe the final ten insights with their charts:
  Bar chart:
-  o Harvard, MIT, Stanford, Cambridge, and Oxford are the leading universities globally, known for their academic excellence.
-  o Seven of the top ten are from the US, highlighting its strong presence in global higher education. 
-  o Top 10 USA universities by National Rank: The first 5 universities in this chart are in the top 10 global ranking which indicates that the USA are playing a major role in world ranking universities and they have the best educational environments.
+  - Harvard, MIT, Stanford, Cambridge, and Oxford are the leading universities globally, known for their academic excellence.
+  - Seven of the top ten are from the US, highlighting its strong presence in global higher education. 
+  - Top 10 USA universities by National Rank: The first 5 universities in this chart are in the top 10 global ranking which indicates that the USA are playing a major role in world ranking universities and they have the best educational environments.
 
 pie chart:
- o The chart shows that the USA dominates with 80% of the data, reflecting its significant influence, while the UK represents 20%, indicating a smaller, though still notable, share.
- o Top countries with highest average scores:  This pie chart shows that Netherlands, Switzerland, Denmark, and Singapore have the highest average university scores, each contributing roughly 20% to the top scores in this chart, this means these countries have a strong academic performance compared to others. However, some countries might have only one or a few universities, which can result in a higher average score compared to countries with many universities.
+ - The chart shows that the USA dominates with 80% of the data, reflecting its significant influence, while the UK represents 20%, indicating a smaller, though still notable, share.
+ - Top countries with highest average scores:  This pie chart shows that Netherlands, Switzerland, Denmark, and Singapore have the highest average university scores, each contributing roughly 20% to the top scores in this chart, this means these countries have a strong academic performance compared to others. However, some countries might have only one or a few universities, which can result in a higher average score compared to countries with many universities.
 
 
 
