@@ -10,7 +10,7 @@
 - Alaa Alahmadi
 - Musab Alsobhi
 - Dania Alshehri
-- Wadiah Aleu
+- Wadiah Albuhairi.
 
   
 ### Introduction:
