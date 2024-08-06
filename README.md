@@ -169,4 +169,6 @@ have a high concentration of top-ranked universities? " width= " " >
  <img src="img2.png" alt ="Heat map " width= " " >
 We used Heat map to find the correlated factors to identify what was the relationship between ranking and other factors, the related factor was the “Research Rank” thus the best research will increase the university world rank, and the National Rank was the least related factor, while the Educational Rank was not related at all with the World Rank.
 
-
+9. 
+ <img src="ARWU.png" alt ="Heat map " width= " " >
+Most of the universities are from the US.
