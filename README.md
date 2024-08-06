@@ -130,7 +130,11 @@ National Rank vs. Score of Saudi Universities: This scatter plot compares nation
  
 
  ### Describe the final ten insights with their charts:
- Bar chart:
+
+ <img src="boxplot.png" alt ="Box plot of Score " width= " " >
+ <img src="histogram.png" alt ="Histogram of Score " width= " " >
+ From the figures above, we can say that there are no outliers, and most universities score between 66 and 74.
+
   - Harvard, MIT, Stanford, Cambridge, and Oxford are the leading universities globally, known for their academic excellence.
   - Seven of the top ten are from the US, highlighting its strong presence in global higher education.
     <img src="A111.png" alt ="Which universities are ranked in the top 10 globally? " width= " " >
@@ -138,13 +142,16 @@ National Rank vs. Score of Saudi Universities: This scatter plot compares nation
   - Top 10 USA universities by National Rank: The first 5 universities in this chart are in the top 10 global ranking which indicates that the USA are playing a major role in world ranking universities and they have the best educational environments.
      <img src="top 10 usa.png" alt ="Top 10 USA Universities by National Rank" width= " " >
 
-pie chart:
+
  - The chart shows that the USA dominates with 80% of the data, reflecting its significant influence, while the UK represents 20%, indicating a smaller, though still notable, share.
     <img src="A11.png " alt ="Is there a correlation between national and global university rankings, and
 based on this information, can you recommend a country that appears to
 have a high concentration of top-ranked universities? " width= " " >
+
  - Top countries with highest average scores:  This pie chart shows that Netherlands, Switzerland, Denmark, and Singapore have the highest average university scores, each contributing roughly 20% to the top scores in this chart, this means these countries have a strong academic performance compared to others. However, some countries might have only one or a few universities, which can result in a higher average score compared to countries with many universities.
    <img src="top 10 country.png " alt ="Top 5 Countries with the Highest Average Scores " width= " " >
-
+   
+-  The scatter plot shows that there are a wide gap of global standings among Saudi universites, 3 universites are ranked the highest globally, all within the top 500. The other universities are ranked between 500 and 2000. This highlights that while some Saudi universities are highly competitive internationally, many others have room for improvement.
+   <img src="saudi uni belaw.png " alt ="universities ranked top 10 for employment outcomes  " width= " " >
 
 
