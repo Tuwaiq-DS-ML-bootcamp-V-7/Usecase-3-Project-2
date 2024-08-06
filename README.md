@@ -160,9 +160,13 @@ have a high concentration of top-ranked universities? " width= " " >
 
 
    7.
- <img src="img1.png" alt ="Box plot of Score " width= " " >
+ <img src="img1.png" alt ="Histogram of Rank " width= " " >
  Histogram showed us the top ten global university rankings
  and the Top Harvard University and then INSEAD , Institut national du service public, Stanford University , China Europe International Business School , University of Tokyo , HEC Paris , University of Pennsylvania , Institut  Polytechnique de Paris , International Institute for Management Development.
-.
+
+
+  8.
+ <img src="img2.png" alt ="Heat map " width= " " >
+We used Heat map to find the correlated factors to identify what was the relationship between ranking and other factors, the related factor was the “Research Rank” thus the best research will increase the university world rank, and the National Rank was the least related factor, while the Educational Rank was not related at all with the World Rank.
 
 
