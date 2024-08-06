@@ -152,6 +152,6 @@ have a high concentration of top-ranked universities? " width= " " >
    <img src="top 10 country.png " alt ="Top 5 Countries with the Highest Average Scores " width= " " >
    
 -  The scatter plot shows that there are a wide gap of global standings among Saudi universites, 3 universites are ranked the highest globally, all within the top 500. The other universities are ranked between 500 and 2000. This highlights that while some Saudi universities are highly competitive internationally, many others have room for improvement.
-   <img src="saudi uni belaw.png " alt ="universities ranked top 10 for employment outcomes  " width= " " >
+   <img src="saudi uni belaw 70.png " alt ="universities ranked top 10 for employment outcomes  " width= " " >
 
 
