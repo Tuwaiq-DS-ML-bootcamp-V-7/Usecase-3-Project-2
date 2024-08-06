@@ -159,9 +159,8 @@ have a high concentration of top-ranked universities? " width= " " >
 - The scatter plot shows that there are a wide gap of global standings among Saudi universites, 3 universites are ranked the highest globally, all within the top 500. The other universities are ranked between 500 and 2000. This highlights that while some Saudi universities are highly competitive internationally, many others have room for improvement.
 
 
-   2.
+   7.
  <img src="img1.png" alt ="Box plot of Score " width= " " >
- <img src="histogram.png" alt ="Histogram of Score " width= " " >
  Histogram showed us the top ten global university rankings
  and the Top Harvard University and then INSEAD , Institut national du service public, Stanford University , China Europe International Business School , University of Tokyo , HEC Paris , University of Pennsylvania , Institut  Polytechnique de Paris , International Institute for Management Development.
 .
