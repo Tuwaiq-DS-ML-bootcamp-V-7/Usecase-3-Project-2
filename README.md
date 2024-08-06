@@ -132,11 +132,16 @@ National Rank vs. Score of Saudi Universities: This scatter plot compares nation
  ### Describe the final ten insights with their charts:
  Bar chart:
   - Harvard, MIT, Stanford, Cambridge, and Oxford are the leading universities globally, known for their academic excellence.
-  - Seven of the top ten are from the US, highlighting its strong presence in global higher education. 
+  - Seven of the top ten are from the US, highlighting its strong presence in global higher education.
+    <img src="A111 " alt ="Which universities are ranked in the top 10 globally? " width= " " >
+    
   - Top 10 USA universities by National Rank: The first 5 universities in this chart are in the top 10 global ranking which indicates that the USA are playing a major role in world ranking universities and they have the best educational environments.
 
 pie chart:
  - The chart shows that the USA dominates with 80% of the data, reflecting its significant influence, while the UK represents 20%, indicating a smaller, though still notable, share.
+    <img src="A11 " alt ="Is there a correlation between national and global university rankings, and
+based on this information, can you recommend a country that appears to
+have a high concentration of top-ranked universities? " width= " " >
  - Top countries with highest average scores:  This pie chart shows that Netherlands, Switzerland, Denmark, and Singapore have the highest average university scores, each contributing roughly 20% to the top scores in this chart, this means these countries have a strong academic performance compared to others. However, some countries might have only one or a few universities, which can result in a higher average score compared to countries with many universities.
 
 
